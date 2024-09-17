@@ -1,10 +1,5 @@
 fun main(args: Array<String>) {
-    //Array lists (mutable) bisa diubah
-    /*
-    Method:
-    clear(), contains(), size, get() or [], add() or +=, remove() or -=,
-    removeAt(), toTypedArray(), lastIndexOf(), removeAll(), reverse()
-    */
+
     val arrayList = arrayListOf(1, 2, 3)
     print("ArrayList array : ")
     for(item in arrayList){
